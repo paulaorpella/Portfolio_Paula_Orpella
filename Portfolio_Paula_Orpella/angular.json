@@ -23,12 +23,12 @@
               "src/assets"
             ],
             "styles": [
-              "node-modules/bootstrap/dist/css/bootstrap.css",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
           
             ],
             "scripts": [
-          
+              "node_modules/bootstrap/dist/css/bootstrap.min.js"
             ]
           },
           "configurations": {
@@ -94,7 +94,7 @@
               "src/assets"
             ],
             "styles": [
-              "node-modules/bootstrap/dist/css/bootstrap.css",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
